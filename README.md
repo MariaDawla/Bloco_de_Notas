@@ -1,6 +1,9 @@
 # 📝 Bloco de Notas Web
 
-Um sistema web de bloco de notas com organização por **janelas (pastas)** e **páginas (anotações)**, utilizando Node.js, PostgreSQL e Docker para o banco de dados.
+O Bloco de Notas Web é um espaço digital para você organizar suas ideias, pensamentos e lembretes.
+Nele, você pode criar **janelas**, como se fossem pastas, e dentro delas guardar suas **páginas**, onde anota o que quiser.
+
+É como um caderno virtual, mas muito mais organizado — perfeito para quem adora separar tudo por tema ou projeto! 💡✨
 
 ---
 
