@@ -30,15 +30,18 @@ Nele, você pode criar **janelas**, como se fossem pastas, e dentro delas guarda
 
 ---
 
-## 🐳 Configuração com Docker (somente o banco de dados)
+## 🐳 Configuração com Docker
 
-1. Crie uma **rede Docker**:
+1. Criação de uma **rede Docker**
 
-```bash
-docker network create bloco-notas-net
-```
+2. Uso de arquivos **Dockerfile**
+
+3. Padronização do ambiente de desenvolvimento
+
+4. Isolamento da aplicação
 
 ---
+
 
 ## ⚙️ Como rodar o projeto:
 
@@ -94,6 +97,11 @@ CREATE TABLE pagina_janela
 ); 
 
 ```
+---
+## 👦🏻👩🏻 Colaboradores 
+
+- Mateus Mancini Cabrini Araujo
+- Maria Júlia Sene Dawla
 
   
 
