@@ -9,12 +9,14 @@ Nele, você pode criar **janelas**, como se fossem pastas, e dentro delas guarda
 
 ## 🚀 Funcionalidades
 
-- Criar janelas com uma página inicial vazia
+- Criar novas janelas
 - Adicionar páginas a janelas existentes
 - Listar todas as janelas com suas respectivas páginas
 - Editar o título de uma janela
+- Editar a página, incluindo título, tipo e corpo
 - Marcar janelas e páginas como deletadas (soft delete)
 - Visualizar uma janela específica com suas páginas
+- Mover uma página para outra janela
 
 ---
 
@@ -24,7 +26,7 @@ Nele, você pode criar **janelas**, como se fossem pastas, e dentro delas guarda
 - **PostgreSQL** – Banco de dados relacional
 - **Docker** – Uso de containers
 - **pg (node-postgres)** – Cliente Node.js para PostgreSQL
-- **React** + **HTML**- Front-end da aplicação
+- **React** + **HTML** + **CSS** - Front-end da aplicação
 
 ---
 
